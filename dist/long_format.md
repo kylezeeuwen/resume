@@ -202,11 +202,20 @@ Displayr is actively using the framework I built to continue to maintain the wid
 
 Tjhe [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts the framework and documentation, as well as an list of all the widgets that are built and maintained using this framework.
 
-<p float="left">
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" />
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" /> 
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" />
+<p align="middle">
+  <img src="../assets/rhtml/donut1.png" width="10%" />
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
+
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
+
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
 </p>
+
 
 ### (2021-2022) Data Science - Udacity Course Work
 
