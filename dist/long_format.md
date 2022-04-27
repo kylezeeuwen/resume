@@ -190,27 +190,65 @@ I started working when I was 13 years old ! I did data entry on an NCURSES based
 
 ## Contract and Personal Projects
 
-### Data Visualisation - HtmlWidget Maintenance
+### (2016-2021) Data Visualisation - HtmlWidget Maintenance
 
-TODO
+I built and/or maintained 7 real and 2 template ["R html widgets"](http://www.htmlwidgets.org/) for the ["DisplayR"](https://www.displayr.com/) product. 
+
+These widgets are open source, they are embedded in the Displayr SaaS product, and they can also be invoked directly from R.
+
+In addition to either building from scratch or heavily refactoring each of these widgets, I built a development and testing framework that allows maintainers to quickly iterate in HTML and Javascript without having to use the R bindings.
+
+Displayr is actively using the framework I built to continue to maintain the widgets.
+
+The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts the framework and documentation, as well as an list of all the widgets that are built and maintained using this framework.
+
+<p align="middle">
+  <img src="../assets/projects/rhtml/donut1.png" width="10%" />
+  <img src="../assets/projects/rhtml/donut2.png" width="10%" />
+  <img src="../assets/projects/rhtml/heatmap1.png" width="10%" />
+  <img src="../assets/projects/rhtml/bubbleplot1.png" width="10%" />
+  <img src="../assets/projects/rhtml/bubbleplot2.png" width="10%" />
+  <img src="../assets/projects/rhtml/moonplot1.png" width="10%" />
+  <img src="../assets/projects/rhtml/palmtree1.png" width="10%" />
+  <img src="../assets/projects/rhtml/pictograph1.png" width="10%" />
+  <img src="../assets/projects/rhtml/sankey1.png" width="10%" />
+</p>
+
 
 ### (2021-2022) Data Science - Udacity Course Work
 
-* [Project 1: Analyse 2020 Stackoverflow developer results](https://medium.com/@kylezeeuwen/does-the-country-change-the-developer-ce18116e905f) 
-* [Project 2: Build a Disaster Response Message Classifier](https://github.com/kylezeeuwen/ds-disaster-response-pipeline) 
+[Project 1: Medium Article and Repo Analysing 2020 Stackoverflow developer results](https://medium.com/@kylezeeuwen/does-the-country-change-the-developer-ce18116e905f) 
+<p align="middle">
+  <img src="../assets/projects/udacity_project1.png" width="50%" />
+</p>
+
+
+[Project 2: Build a Disaster Response Message Classifier](https://github.com/kylezeeuwen/ds-disaster-response-pipeline) 
+<p align="middle">
+  <img src="../assets/projects/udacity_project2.png" width="50%" />
+</p>
+
 
 ### (2015) Data Visualisation - The GymSym - Put your weights back Stu!
 
-Try to show why its bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
+<p align="middle">
+  <img src="../assets/projects/gymsym.gif" width="50%" />
+</p>
+
+Try to show why it is bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
 
 The project includes full test coverage of the model, as well as decent npm packaging and gulp integration.
 
 * Why: Build portfolio. 
-* When: 2015  
-* AngularJS + D3 silly simulation
+* When: 2015
+* What: AngularJS + D3 silly simulation
 * [Code on Github]: https://github.com/kylezeeuwen/gymsym
 
 ### (2013-2014) Data Visualisation - NHL Trade Visualization: Visualize sports trades geographically over time.
+
+<p align="middle">
+  <img src="../assets/projects/nhl-trade-graph.gif" width="50%" />
+</p>
 
 I started and 'completed' work to have public facing Angular + D3 code before getting first job hired as a front end developer. [Demo](http://kylezeeuwen.github.io/sportsgraph-alpha/demo.html)
 
@@ -229,7 +267,7 @@ Very simple Python App : Scrape google and tell  me the Olympic medal count duri
 
 * Why: Build portfolio. 
 * When: 2014  
-* [Code on Github]:(https://github.com/kylezeeuwen/olympic-medal-count)
+* [Code on Github](https://github.com/kylezeeuwen/olympic-medal-count)
 
 ### (2014) Diffbot Perl Client
 
