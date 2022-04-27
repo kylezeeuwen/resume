@@ -217,8 +217,17 @@ The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts th
 
 ### (2021-2022) Data Science - Udacity Course Work
 
-* [Project 1: Analyse 2020 Stackoverflow developer results](https://medium.com/@kylezeeuwen/does-the-country-change-the-developer-ce18116e905f) 
-* [Project 2: Build a Disaster Response Message Classifier](https://github.com/kylezeeuwen/ds-disaster-response-pipeline) 
+<p align="middle">
+  <img src="../assets/projects/udacity_project1.png" width="50%" />
+</p>
+
+[Project 1: Medium Article and Repo Analysing 2020 Stackoverflow developer results](https://medium.com/@kylezeeuwen/does-the-country-change-the-developer-ce18116e905f) 
+
+<p align="middle">
+  <img src="../assets/projects/udacity_project2.png" width="50%" />
+</p>
+
+[Project 2: Build a Disaster Response Message Classifier](https://github.com/kylezeeuwen/ds-disaster-response-pipeline) 
 
 ### (2015) Data Visualisation - The GymSym - Put your weights back Stu!
 
@@ -258,7 +267,7 @@ Very simple Python App : Scrape google and tell  me the Olympic medal count duri
 
 * Why: Build portfolio. 
 * When: 2014  
-* [Code on Github]:(https://github.com/kylezeeuwen/olympic-medal-count)
+* [Code on Github](https://github.com/kylezeeuwen/olympic-medal-count)
 
 ### (2014) Diffbot Perl Client
 
