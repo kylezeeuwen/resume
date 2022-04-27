@@ -222,20 +222,24 @@ The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts th
 
 ### (2015) Data Visualisation - The GymSym - Put your weights back Stu!
 
-Try to show why its bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
+<p align="middle">
+  <img src="../assets/projects/gymsym.gif" width="50%" />
+</p>
+
+Try to show why it is bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
 
 The project includes full test coverage of the model, as well as decent npm packaging and gulp integration.
 
-<p>
-  <img src="../assets/projects/gymsym.gif" width="20%" />
-</p>
-
 * Why: Build portfolio. 
-* When: 2015  
-* AngularJS + D3 silly simulation
+* When: 2015
+* What: AngularJS + D3 silly simulation
 * [Code on Github]: https://github.com/kylezeeuwen/gymsym
 
 ### (2013-2014) Data Visualisation - NHL Trade Visualization: Visualize sports trades geographically over time.
+
+<p align="middle">
+  <img src="../assets/projects/nhl-trade-graph.gif" width="50%" />
+</p>
 
 I started and 'completed' work to have public facing Angular + D3 code before getting first job hired as a front end developer. [Demo](http://kylezeeuwen.github.io/sportsgraph-alpha/demo.html)
 
