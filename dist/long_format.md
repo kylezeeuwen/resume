@@ -200,18 +200,18 @@ In addition to either building from scratch or heavily refactoring each of these
 
 Displayr is actively using the framework I built to continue to maintain the widgets.
 
-Tjhe [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts the framework and documentation, as well as an list of all the widgets that are built and maintained using this framework.
+The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts the framework and documentation, as well as an list of all the widgets that are built and maintained using this framework.
 
 <p align="middle">
-  <img src="../assets/rhtml/donut1.png" width="10%" />
-  <img src="../assets/rhtml/donut2.png" width="10%" />
-  <img src="../assets/rhtml/heatmap1.png" width="10%" />
-  <img src="../assets/rhtml/bubbleplot1.png" width="10%" />
-  <img src="../assets/rhtml/bubbleplot2.png" width="10%" />
-  <img src="../assets/rhtml/moonplot1.png" width="10%" />
-  <img src="../assets/rhtml/palmtree1.png" width="10%" />
-  <img src="../assets/rhtml/pictograph1.png" width="10%" />
-  <img src="../assets/rhtml/sankey1.png" width="10%" />
+  <img src="../assets/projects/rhtml/donut1.png" width="10%" />
+  <img src="../assets/projects/rhtml/donut2.png" width="10%" />
+  <img src="../assets/projects/rhtml/heatmap1.png" width="10%" />
+  <img src="../assets/projects/rhtml/bubbleplot1.png" width="10%" />
+  <img src="../assets/projects/rhtml/bubbleplot2.png" width="10%" />
+  <img src="../assets/projects/rhtml/moonplot1.png" width="10%" />
+  <img src="../assets/projects/rhtml/palmtree1.png" width="10%" />
+  <img src="../assets/projects/rhtml/pictograph1.png" width="10%" />
+  <img src="../assets/projects/rhtml/sankey1.png" width="10%" />
 </p>
 
 
@@ -225,6 +225,10 @@ Tjhe [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts t
 Try to show why its bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
 
 The project includes full test coverage of the model, as well as decent npm packaging and gulp integration.
+
+<p>
+  <img src="../assets/projects/gymsym.gif" width="20%" />
+</p>
 
 * Why: Build portfolio. 
 * When: 2015  
