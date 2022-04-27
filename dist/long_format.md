@@ -204,16 +204,14 @@ Tjhe [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts t
 
 <p align="middle">
   <img src="../assets/rhtml/donut1.png" width="10%" />
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
-
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
-
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" />
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
-  <img src="https://dummyimage.com/100x100/9696ed/fff" width="10%" /> 
+  <img src="../assets/rhtml/donut2.png" width="10%" />
+  <img src="../assets/rhtml/heatmap1.png" width="10%" />
+  <img src="../assets/rhtml/bubbleplot1.png" width="10%" />
+  <img src="../assets/rhtml/bubbleplot2.png" width="10%" />
+  <img src="../assets/rhtml/moonplot1.png" width="10%" />
+  <img src="../assets/rhtml/palmtree1.png" width="10%" />
+  <img src="../assets/rhtml/pictograph1.png" width="10%" />
+  <img src="../assets/rhtml/sankey1.png" width="10%" />
 </p>
 
 
