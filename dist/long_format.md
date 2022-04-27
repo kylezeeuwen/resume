@@ -190,9 +190,23 @@ I started working when I was 13 years old ! I did data entry on an NCURSES based
 
 ## Contract and Personal Projects
 
-### Data Visualisation - HtmlWidget Maintenance
+### (2016-2021) Data Visualisation - HtmlWidget Maintenance
 
-TODO
+I built and/or maintained 7 real and 2 template ["R html widgets"](http://www.htmlwidgets.org/) for the ["DisplayR"](https://www.displayr.com/) product. 
+
+These widgets are open source, they are embedded in the Displayr SaaS product, and they can also be invoked directly from R.
+
+In addition to either building from scratch or heavily refactoring each of these widgets, I built a development and testing framework that allows maintainers to quickly iterate in HTML and Javascript without having to use the R bindings.
+
+Displayr is actively using the framework I built to continue to maintain the widgets.
+
+Tjhe [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts the framework and documentation, as well as an list of all the widgets that are built and maintained using this framework.
+
+<p float="left">
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" />
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" /> 
+  <img src="https://dummyimage.com/100x100/9696ed/fff" width="100" />
+</p>
 
 ### (2021-2022) Data Science - Udacity Course Work
 

@@ -1,4 +1,5 @@
 * TODO Go through git repos
+* Add a productivity tool section to technologies
 
 # Asset manifest
 
@@ -12,7 +13,6 @@
 /Users/kyle/Documents/resume/applications/onthehouse:
 * (DONE) onthehouse_email.txt
 * (DONE) qa.txt
-
 
 /Users/kyle/Documents/resume/applications/onthehouse/screencasts:
 * (TODO) foundation_demo.mov
