@@ -59,7 +59,7 @@ As the two product builds were effectively two completely different experiences,
 
 #### Console Cloud: Inception → Stable Product → Acquisition : 2016 → present
 
-In March 2016 Console began a program of work to replace an on premises product management software package called Gateway. The new solution was a SaaS based property management package consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February of 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
+In March 2016 Console began a program of work to replace an on premises property management software package called Gateway. The new solution was SaaS based consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February of 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
 
 ##### Technology Stack
 * Web: Combination of "micro front ends" written in React with older code written in AngularJS
