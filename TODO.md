@@ -1,5 +1,10 @@
 * TODO Go through git repos
+* periods at end of each bullet point
 * Add a productivity tool section to technologies
+* Link to stack overflow : https://stackoverflow.com/users/3344695/zayquan
+* gifs of labrules and foundation demos
+* onthehouse : screenshots showing SEO transition, link to sitemap
+* onthehouse + console: could talk about [bicker](https://github.com/consoleau/bicker) and BFF IOC + bff-node-modules 
 
 # Asset manifest
 
