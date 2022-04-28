@@ -219,7 +219,7 @@ The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts th
 
 [Project 1: Medium Article and Repo Analysing 2020 Stackoverflow developer results](https://medium.com/@kylezeeuwen/does-the-country-change-the-developer-ce18116e905f) 
 <p align="middle">
-  <img src="../assets/projects/udacity_project1.png" width="50%" />
+  <img src="../assets/projects/udacity_project1b.png" width="50%" />
 </p>
 
 
