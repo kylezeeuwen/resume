@@ -239,10 +239,12 @@ Try to show why it is bad when people put the weights back in the wrong place. [
 
 The project includes full test coverage of the model, as well as decent npm packaging and gulp integration.
 
-* Why: Build portfolio. 
+* Why: Fun. Build portfolio. 
 * When: 2015
 * What: AngularJS + D3 silly simulation
-* [Code on Github]: https://github.com/kylezeeuwen/gymsym
+* [Code on Github](https://github.com/kylezeeuwen/gymsym)
+* [Info Page URL](http://kylezeeuwen.github.io/gymsym/dist/#/intro)
+* [Demo URL](http://kylezeeuwen.github.io/gymsym/dist/#/simulation/threebadapple)
 
 ### (2013-2014) Data Visualisation - NHL Trade Visualization: Visualize sports trades geographically over time.
 
@@ -254,10 +256,10 @@ I started and 'completed' work to have public facing Angular + D3 code before ge
 
 * Why: Fun. Build portfolio. 
 * When: 2013 - 2014
-* AngularJS + D3 silly simulation
+* What: AngularJS + D3 silly simulation
 * [Code on Github](https://github.com/kylezeeuwen/sportsgraph-alpha)
-* Info Page URL: http://kylezeeuwen.github.io/sportsgraph-alpha/
-* Demo URL: http://kylezeeuwen.github.io/sportsgraph-alpha/demo.html
+* [Info Page URL](http://kylezeeuwen.github.io/sportsgraph-alpha/)
+* [Demo URL](http://kylezeeuwen.github.io/sportsgraph-alpha/demo.html)
 
 There is quite a bit of actual historical data underpinning this app. To get this data I had to write scrapers and run them on the sly for several weeks. Totally worth it. Web scraping and countermeasures were a common theme at Sophos.
 
@@ -265,15 +267,15 @@ There is quite a bit of actual historical data underpinning this app. To get thi
 
 Very simple Python App : Scrape google and tell  me the Olympic medal count during the Olympics a few years ago
 
-* Why: Build portfolio. 
+* Why: Fun. Info. Build portfolio. 
 * When: 2014  
 * [Code on Github](https://github.com/kylezeeuwen/olympic-medal-count)
 
 ### (2014) Diffbot Perl Client
 
+* Why: Build portfolio. Try contract work
 * Company: [Diffbot](www.diffbot.com)
-* When: 10 hours during February 2014
-* Pay: $100 USD 💸💸
+* When: February 2014
 * Source: oDesk
 * Description: Write a Perl client for the diffbot REST service. Includes writing the module, tests, documentation, and packaging the module.
 * Keywords: Perl, packaging
