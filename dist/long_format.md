@@ -4,7 +4,7 @@ Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of 
 * Future Work: the short format
 * Future Work: A web version
 
-Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="10%" />
+Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="10%" /> (it is over there ↖)
 
 # Technologies
 
@@ -338,7 +338,7 @@ Very simple Python App : Scrape google and tell  me the Olympic medal count duri
 
 ### Queensland Smoke Alarm Legislation Compliance 2021 
 
-I performed some analysis to estimate how many queensland properties were compliant ahead of new smoke alarm safety legislation in QLD. Our data got carried in the Courier Mail New Years Day 2022 Page 1 lead in to Page 4-5 [page 1](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-2022-01-01-page1.jpeg) [page 4](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-2022-01-01-page4.jpeg) [page 5](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-2022-01-01-page5.jpeg). Earlier, the initial data release months prior was also picked up [online](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-online-2021-11-21.pdf)
+I performed some analysis to estimate how many queensland properties were compliant ahead of new smoke alarm safety legislation in QLD. Our data got carried in the Courier Mail New Years Day 2022 [Page 1 lead in]((../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-2022-01-01-page1.jpeg)) to a [2 page spread on Page 4-5](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-2022-01-01-page4-5.jpeg). Earlier, the initial data release months prior was also picked up [online](../assets/news/queensland_smoke_alarm_compliance_2022/courier-mail-online-2021-11-21.pdf)
 
 ## Academic Awards
 
