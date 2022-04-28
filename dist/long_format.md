@@ -57,16 +57,16 @@ Did you know: github markdown viewer include a table of contents / header summar
 
 It's been an 8 year journey spanning two cities, 5 CEOs, 6 roles, and two complete rewrites of legacy products: the [www.onthehouse.com.au](www.onthehouse.com.au) site and the [Console Cloud property management platform](https://www.console.com.au/products/cloud/).
 
-As the two product builds were effectively two completely different experiences, I have seperated them below.
+As the two product builds were effectively two completely different experiences, I have separated them below.
 
 #### Console Cloud: Inception → Stable Product → Acquisition : 2016 → present
 
-In March 2016 Console began a program of work to replace an on premises property management software package called Gateway. The new solution was SaaS based consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February of 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
+In March 2016 Console began a program of work to replace an on premises property management software package called Gateway. The new solution was SaaS based consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
 
 ##### Technology Stack
-* Web: Combination of "micro front ends" written in React with older code written in AngularJS
-* Middle Tier: Nodejs based BFF layers providing GraphQL, Authentication, Service Discovery, and Orchestration capabilities - keep the front end simple(ish)
-* Backend: Springboot Microservice APIs written in Kotlin using Aurora Mysql and Elastic Search as a datastore
+* Web: Combination of "micro front ends" written in React with older code written in AngularJS.
+* Middle Tier: Nodejs based BFF layers providing GraphQL, Authentication, Service Discovery, and Orchestration capabilities - keep the front end simple(ish).
+* Backend: Springboot Microservice APIs written in Kotlin using Aurora Mysql and Elastic Search as a datastore.
 
 [comment]: <> (* Segment analytics, Redshift data warehouse, Metabase front end for BI visualisation)
 
@@ -74,9 +74,9 @@ In March 2016 Console began a program of work to replace an on premises property
 
 During this 6 years I have performed a variety of roles which are listed below.   
 
-* **Front end tech lead**: built the foundations of the new SaaS product and the development ecosystem. I was heavily involved in the Angular 1.x framework, the nodejs middle tier (aka "BFF"), the analytics layer, the Protractor testing framework, and the Jenkins + docker based CI/CD build pipeline
+* **Front end tech lead**: built the foundations of the new SaaS product and the development ecosystem. I was heavily involved in the Angular 1.x framework, the nodejs middle tier (aka "BFF"), the analytics layer, the Protractor testing framework, and the Jenkins + docker based CI/CD build pipeline.
 
-* **Practice lead**: we expanded development capacity to 13 front end developers + multiple in house thoughtworks teams. I coordinated all front end efforts, and focused on that difficult balance bewteen consistency and automonomy and growing leaders in the space 
+* **Practice lead**: we expanded development capacity to 13 front end developers + multiple in house thoughtworks teams. I coordinated all front end efforts, and focused on that difficult balance bewteen consistency and automonomy and growing leaders in the space. 
   
 * **Squad lead**: we changed our development structure to follow the ["Spotify Model"](https://www.youtube.com/watch?v=Yvfz4HGtoPc) in an attempt to empower our engineering teams with more decision making. I became one of 5 squad leads and focused on full stack tech leadership for specific feature streams.
  
@@ -87,9 +87,9 @@ During this 6 years I have performed a variety of roles which are listed below.
 ##### Key achievements
 
 * **Angular → React**: In early 2016 I made the decision to use AngularJS over React. In retrospect this was not the right decision. In July 2018 I achieved business buy in to begin moving us to React 😮‍💨.
-* **Lease Renewal Workflow**: The first feature I contributed to as squad lead is still the most adopted "optional" feature within the platform 
+* **Lease Renewal Workflow**: The first feature I contributed to as squad lead is still the most adopted "optional" feature within the platform. 
 * **First Communications Release**: I spent 3 quarters as squad lead developing our email+sms+templating capabilities. This closed a major capability gap that helped us complete against other industry players. 
-* **Revenue Leakage**: I found so much of a gap between our contract+billing data and our actual usage data that I dropped everything and worked in this space for 18 months. I recovered $50k/month worth of revenue stream and drastically improved our process and data quality in this space
+* **Revenue Leakage**: I found so much of a gap between our contract+billing data and our actual usage data that I dropped everything and worked in this space for 18 months. I recovered $50k/month worth of revenue stream and drastically improved our process and data quality in this space.
 * **Account dashboards**: I produced a low cost data pipeline that combines a sanitised production replica, our CSM data, and our analytics stream in one data store and serves reports using [Metabase](https://www.metabase.com/). This `data shack` (™) serves our account managers and service teams. Before they had to ask clients which features they were paying for ?! Now they can have meaningful conversations about how clients are using our platform and suggest avenues for improvement. Aside from empowering 1/3 of our company, this demonstrated the business case for investing in a "real data warehouse 💸💸".
 
 #### OnTheHouse rewrite: 2014 → 2016:
@@ -200,7 +200,7 @@ I started working when I was 13 years old ! I did data entry on an NCURSES based
 
 ### (2016-2021) Data Visualisation - HtmlWidget Maintenance
 
-I built and/or maintained 7 real and 2 template ["R html widgets"](http://www.htmlwidgets.org/) for the ["DisplayR"](https://www.displayr.com/) product. 
+I built and/or maintained 7 real and 2 template [R html widgets](http://www.htmlwidgets.org/) for the [DisplayR](https://www.displayr.com/) product. 
 
 These widgets are open source, they are embedded in the Displayr SaaS product, and they can also be invoked directly from R.
 
@@ -243,11 +243,11 @@ The [rhtmlBuildUtils](https://github.com/Displayr/rhtmlBuildUtils) repo hosts th
   <img src="../assets/projects/gymsym.gif" width="50%" />
 </p>
 
-Try to show why it is bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/)
+Try to show why it is bad when people put the weights back in the wrong place. [Demo](http://kylezeeuwen.github.io/gymsym/dist/).
 
 The project includes full test coverage of the model, as well as decent npm packaging and gulp integration.
 
-* Why: Fun. Build portfolio. 
+* Why: Fun. Build portfolio
 * When: 2015
 * What: AngularJS + D3 silly simulation
 * [Code on Github](https://github.com/kylezeeuwen/gymsym)
@@ -262,7 +262,7 @@ The project includes full test coverage of the model, as well as decent npm pack
 
 I started and 'completed' work to have public facing Angular + D3 code before getting first job hired as a front end developer. [Demo](http://kylezeeuwen.github.io/sportsgraph-alpha/demo.html)
 
-* Why: Fun. Build portfolio. 
+* Why: Fun. Build portfolio
 * When: 2013 - 2014
 * What: AngularJS + D3 silly simulation
 * [Code on Github](https://github.com/kylezeeuwen/sportsgraph-alpha)
@@ -275,7 +275,7 @@ There is quite a bit of actual historical data underpinning this app. To get thi
 
 Very simple Python App : Scrape google and tell  me the Olympic medal count during the Olympics a few years ago
 
-* Why: Fun. Info. Build portfolio. 
+* Why: Fun. Info. Build portfolio
 * When: 2014  
 * [Code on Github](https://github.com/kylezeeuwen/olympic-medal-count)
 
