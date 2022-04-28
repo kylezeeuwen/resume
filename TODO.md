@@ -1,10 +1,12 @@
 * TODO Go through git repos
-* periods at end of each bullet point
+* (DONE) periods at end of each bullet point
 * Add a productivity tool section to technologies
 * Link to stack overflow : https://stackoverflow.com/users/3344695/zayquan
 * gifs of labrules and foundation demos
-* onthehouse : screenshots showing SEO transition, link to sitemap
+* (DONE) onthehouse : screenshots showing SEO transition, link to sitemap
 * onthehouse + console: could talk about [bicker](https://github.com/consoleau/bicker) and BFF IOC + bff-node-modules 
+* onthehouse: the massive prerender effort and the impact it had on google crawler behaviour : oth_prerender_seo_crawl_lift
+* (TODO) index.md <-- interesting full background. Sanitise then include
 
 # Asset manifest
 
@@ -33,19 +35,19 @@
 * (DONE) kyle_zeeuwen_long_2011.doc
 
 /Users/kyle/Documents/resume/assets:
-* (TODO) Analytics Production (Rollup) Audience Overview 20140701-20160229.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20150630 copy.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20150630.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20151130.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302 (1).pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302.pdf
-* (TODO) Screen Shot 2016-02-21 at 2.41.38 AM.png
-* (TODO) Screen Shot 2016-02-21 at 2.44.35 AM.png
+* (DONE) Analytics Production (Rollup) Audience Overview 20140701-20160229.pdf
+* (DONE) Analytics Production (Rollup) Audience Overview 20150101-20150630 copy.pdf
+* (DONE) Analytics Production (Rollup) Audience Overview 20150101-20150630.pdf
+* (DONE) Analytics Production (Rollup) Audience Overview 20150101-20151130.pdf
+* (DONE) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302 (1).pdf
+* (DONE) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302.pdf
+* (DONE) Screen Shot 2016-02-21 at 2.41.38 AM.png
+* (DONE) Screen Shot 2016-02-21 at 2.44.35 AM.png
 * (DONE) contracts.txt
 * (TODO) foundation_demo.mov
 * (TODO) labrules_visualization_demo.mov
 * (DONE) technologies.txt
-* (TODO) www-browser-breakdown-jan2016.png
+* (DONE) www-browser-breakdown-jan2016.png
 
 /Users/kyle/Documents/resume/assets/smoke_alarm_data:
 * (DONE) 2022-01-01-page1.jpeg
@@ -55,18 +57,6 @@
 * (DONE) Image from iOS.jpg
 * (DONE) Townsville Bulletin.pdf
 
-/Users/kyle/Documents/resume/markdown/on-the-house:
-* (TODO) index.md
-
-/Users/kyle/Documents/resume/markdown/on-the-house/assets:
-* (TODO) Analytics Production (Rollup) Audience Overview 20140701-20160229.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20150630 copy.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20150630.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150101-20151130.pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302 (1).pdf
-* (TODO) Analytics Production (Rollup) Audience Overview 20150812-20160302 20140812-20150302.pdf
-* (TODO) oth_seo_impact.png
-* (TODO) wmt_crawl_stats.png
 
 /Users/kyle/Documents/resume/qa:
 * (DONE) about_me.txt
