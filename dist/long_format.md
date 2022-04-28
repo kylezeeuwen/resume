@@ -4,7 +4,7 @@ Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of 
 * Future Work: the short format
 * Future Work: A web version
 
-Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon" width="10%" />
+Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="10%" />
 
 # Technologies
 
