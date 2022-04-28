@@ -96,7 +96,11 @@ During this 6 years I have performed a variety of roles which are listed below.
 
 I became an expert in a new tech stack, and spent my time mentoring, reviewing, and troubleshooting with my peers, drafting solutions with our chief architect, iterating on story details with our business analysts, and contributing to several key areas of our code base. I took particular focus on our testing frameworks, server stack, dev-ops process, and SEO concerns during the migration from old to new site. The technology soup that I ate during this project : Angular 1.2 via coffeescript, testing via protractor, jasmine, and karma, CSS3 via LESS, grunt, prerender, node.js express, CI via Jenkins, AWS via an in house cloud formation templating DSL, Kibana, and JIRA+Confluence.
 
-One of my key individual contributions: the site migration and relaunch went very smoothly. Our organic search traffic - which was crucial to the site - did not even take a temporary 2-3 week drop as was expected by our SEO consultants.
+**Notable key individual contributions**: the site migration and relaunch went very smoothly. Our organic search traffic - which was crucial to the site - did not even take a temporary 2-3 week drop as was expected by our SEO consultants.
+
+<p align="middle">
+  <img src="../assets/oth_organic_during_cutover_annotated.png" width="50%" />
+</p>
 
 ### Sophos: 2007 → 2014
   * Role: Junior Software Engineer -> Senior Software Engineer -> Interim tech lead
