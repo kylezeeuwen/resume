@@ -4,6 +4,8 @@ Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of 
 * Future Work: the short format
 * Future Work: A web version
 
+Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon" width="10%" />
+
 # Technologies
 
 ## Languages
@@ -99,7 +101,7 @@ I became an expert in a new tech stack, and spent my time mentoring, reviewing, 
 **Notable key individual contributions**: the site migration and relaunch went very smoothly. Our organic search traffic - which was crucial to the site - did not even take a temporary 2-3 week drop as was expected by our SEO consultants.
 
 <p align="middle">
-  <img src="../assets/oth_organic_during_cutover_annotated.png" width="50%" />
+  <img src="../assets/oth_organic_during_cutover_annotated-v2.png" width="50%" />
 </p>
 
 ### Sophos: 2007 → 2014
@@ -110,17 +112,19 @@ I became an expert in a new tech stack, and spent my time mentoring, reviewing, 
 
 [comment]: <> (TODO link to videos)
 
-Sophos is a privately held B2B provider of a broad range of computer security products. SophosLabs is responsible for generating threat intelligence for all Sophos products. I worked on a team building and maintaining production critical data publishing systems. In a sentence: we automated as much as possible, allowing our threat researchers to focus on the most challenging and valuable analysis tasks. This fast paced environment rapidly developed my coding and devops skills in a LAMP (Linux+Apache+Mysql+Perl) environment. My major accomplishments are outlined below:
+> We automated as much as possible, allowing our threat researchers to focus on the most challenging and valuable analysis tasks. 
 
-**Business Rules Management** – My largest contribution to Sophos was the development of an expert rule system that still serves as the primary decision point for all automated sample classification within SophosLabs. The multi-worker Perl based system uses Hbase for data storage and communicates with dozens of surrounding systems via AMQP message passing. In addition to developing the system from scratch, I provided final review and approval for all updates to this system, and acted as a stakeholder/consultant in all projects directly upstream and downstream of the business rules engine. The system is now in a mature phase after going through several backend scalability upgrades and feature cycles.
+Sophos is a privately held B2B provider of a broad range of computer security products. SophosLabs is responsible for generating threat intelligence for all Sophos products. I worked on a team building and maintaining production critical data publishing systems. This fast paced environment rapidly developed my coding and devops skills in a LAMP (Linux+Apache+Mysql+Perl) environment. My major accomplishments are outlined below:
 
-The success of the system in terms of reliability, extensibility, and visibility led to repeated reuse in subsequent projects for both decision making and orchestration, growing to control state for multiple customer products. The rule set underwent over 200 successful logic updates under my supervision. In addition to developing the system from scratch, I provided final review and approval for all updates to this system, and acted as a stakeholder/consultant in all projects directly upstream and downstream of the business rules engine. As of 2020, the system still runs 24/7, classifying an average of over 60K pieces of malware daily. When I left in 2014, the database contained over 1000 pieces of metadata on over 1 billion distinct files, and is something on the order of 60 Terabytes in size.
+**Business Rules Management** – My largest contribution to Sophos was the development of an expert rule system that still (circa 2022 after full rewrite) serves as the primary decision point for all automated sample classification within SophosLabs. The multi-worker Perl based system uses Hbase for data storage and communicates with dozens of surrounding systems via AMQP message passing. In addition to developing the system from scratch, I provided final review and approval for all updates to this system, and acted as a stakeholder/consultant in all projects directly upstream and downstream of the business rules engine. The system is now in a mature phase after going through several backend scalability upgrades and feature cycles.
 
-**Domain Specific Research** – My masters research had a strong overlap with my objectives at work for much of 2010 and 2011. I developed low and high interaction honeyclients (i.e., malware focused web crawlers) and performed several studies of malware distribution networks. This led to two paper publications for SophosLabs, and the research system was used in production for over a year. After completing my degree I worked with my colleagues at UBC to secure funding for research internships at Sophos. This led to hiring a PhD student on Internship to apply machine learning to aid malware classification within SophosLabs.
+The success of the system in terms of reliability, extensibility, and visibility led to repeated reuse in subsequent projects for both decision making and orchestration, growing to control state for multiple customer products. The rule set underwent over 200 successful logic updates under my supervision. In addition to developing the system from scratch, I provided final review and approval for all updates to this system, and acted as a stakeholder/consultant in all projects directly upstream and downstream of the business rules engine.
+
+**Domain Specific Research** – My masters research had a strong overlap with my objectives at work for much of 2010 and 2011. I developed low and high interaction honeyclients (i.e., malware focused web crawlers) and performed several studies of malware distribution networks. This led to two paper publications for SophosLabs, and the research system was used in production for over a year. After completing my degree I worked with my colleagues at UBC to secure funding for research internships at Sophos. This led to hiring a PhD student on Internship to develop machine learning models to classify malware within SophosLabs.
 
 **Improved Test and Instrumentation Practices** – I was a Test Driven Development (TDD) evangelist within the lab, and through example have passed on my love of verbose system assurance and instrumentation to my peers. Strong test coverage and maintainable test frameworks are consistent across all of my projects. Systems I have worked have consistently become easier to understand, more maintainable, and more reliable. Colleagues have adopted my methodology with positive results.
 
-**Network reputation** – I performed many functional and test related enhancements to our IP, DNS, and URL classification systems. The reliability and stability of these systems increased as a result of my efforts. I performed a consolidation of backend data stores, which allowed us to leverage previously unseen correlations for the purposes of classification.
+**Network reputation** – I performed many enhancements to our IP, DNS, and URL classification systems. The reliability and stability of these systems increased as a result of my efforts. I performed a consolidation of two seperate billion+ record MySQL servers, which allowed us to leverage previously unseen correlations for the purposes of classification.
 
 **Low Interaction Honeyclient** – My first project in the lab was to design and implement a low interaction fetching agent with an integrated classification component. The objective was to classify “spam linked web content” based on an analyst written rule set. The system ran in production for over 8 years.
 
