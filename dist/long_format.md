@@ -1,10 +1,10 @@
 # Overview
 
-Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of info!
-* Future Work: the short format
-* Future Work: A web version
+Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of info! There is also a [short version](./short_format.md) if you prefer.
 
 Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="20px" /> (↖ over there ↖)
+
+* Future Work: A web version
 
 # Technologies
 
