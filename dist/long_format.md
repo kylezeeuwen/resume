@@ -65,30 +65,30 @@ In March 2016 Console began a program of work to replace an on premises property
 * Web: Combination of "micro front ends" written in React with older code written in AngularJS
 * Middle Tier: Nodejs based BFF layers providing GraphQL, Authentication, Service Discovery, and Orchestration capabilities - keep the front end simple(ish)
 * Backend: Springboot Microservice APIs written in Kotlin using Aurora Mysql and Elastic Search as a datastore
+
 [comment]: <> (* Segment analytics, Redshift data warehouse, Metabase front end for BI visualisation)
 
 ##### Personal Timeline
 
 During this 6 years I have performed a variety of roles which are listed below.   
 
-* Front end tech lead: front end lead creating the development foundations of the new SaaS product
-  * Angular 1.x framework, nodejs graphql middle tier (aka "BFF"), analytics layer, Protractor testing framework, Jenkins + docker based CI/CD build pipeline
+* **Front end tech lead**: built the foundations of the new SaaS product and the development ecosystem. I was heavily involved in the Angular 1.x framework, the nodejs middle tier (aka "BFF"), the analytics layer, the Protractor testing framework, and the Jenkins + docker based CI/CD build pipeline
 
-* Practice lead: we expanded development capacity to 13 front end developers + multiple in house thoughtworks teams. I coordinated all front end efforts, and focused on that difficult balance bewteen consistency and automomy
+* **Practice lead**: we expanded development capacity to 13 front end developers + multiple in house thoughtworks teams. I coordinated all front end efforts, and focused on that difficult balance bewteen consistency and automonomy and growing leaders in the space 
   
-* Squad lead: we changed our development structure to follow the ["Spotify Model"](https://www.youtube.com/watch?v=Yvfz4HGtoPc) in an attempt to empower our engineering teams with more decision making. I became one of 5 squad leads and focused on full stack tech leadership for specific feature streams.
+* **Squad lead**: we changed our development structure to follow the ["Spotify Model"](https://www.youtube.com/watch?v=Yvfz4HGtoPc) in an attempt to empower our engineering teams with more decision making. I became one of 5 squad leads and focused on full stack tech leadership for specific feature streams.
  
-* Squad lead coordinator / Deputy Head of Engineering: We grew to over 10 squads including offshore teams, and I stepped in to a "coordination" role. Head of engineering wasn't keen on my proposed "Deputy Head of Engineering" but this is my resume not his! Looking for synergies through juggling priorities, careful scoping, and resource shuffling.
+* **Squad lead coordinator (Deputy Head of Engineering)**: We grew to over 10 squads including offshore teams, and I stepped into a "coordination" role. The head of engineering wasn't keen on my proposed "Deputy Head of Engineering" title but this is my resume not his! I spent my day listening, observing, and looking for synergies achieved via juggling priorities, careful scoping, and resource shuffling.
 
-* Data guy: We were big enough at this point to require focus on data pipelines, and revenue operations, so I began focusing in this space and eventually made the case to create a dedicated role. This is my current role and I could not be happier.  
+* **Data guy**: We were big enough at this point to require focus on data pipelines, and revenue operations, so I began focusing in this space and eventually made the case to create a dedicated role. This is my current role and I could not be happier.  
 
 ##### Key achievements
 
-* Angular → React: In early 2016 I made the decision to use AngularJS over React. In retrospect this was not the right decision. In July 2018 I achieved business buy in to begin moving us to React 😮‍💨.
-* Lease Renewal Workflow: The first feature I contributed to as squad lead is still the most adopted "optional" feature within the platform 
-* First Communications Release: I spent 3 quarters as squad lead developing our email+sms+templating capabilities. This closed a major capability gap that helped us complete against other industry players. 
-* Revenue Leakage: I found so much of a gap between our contract+billing data and our actual usage data that I dropped everything and worked in this space for 18 months. I recovered $50k/month worth of revenue stream and drastically improved our process and data quality in this space
-* Account dashboards: I produced a data pipeline that serves our account managers and service teams. Before they had to ask clients which features they were paying for ?! Now they can have meaningful conversations about how clients are using our platform and suggest avenues for improvement
+* **Angular → React**: In early 2016 I made the decision to use AngularJS over React. In retrospect this was not the right decision. In July 2018 I achieved business buy in to begin moving us to React 😮‍💨.
+* **Lease Renewal Workflow**: The first feature I contributed to as squad lead is still the most adopted "optional" feature within the platform 
+* **First Communications Release**: I spent 3 quarters as squad lead developing our email+sms+templating capabilities. This closed a major capability gap that helped us complete against other industry players. 
+* **Revenue Leakage**: I found so much of a gap between our contract+billing data and our actual usage data that I dropped everything and worked in this space for 18 months. I recovered $50k/month worth of revenue stream and drastically improved our process and data quality in this space
+* **Account dashboards**: I produced a low cost data pipeline that combines a sanitised production replica, our CSM data, and our analytics stream in one data store and serves reports using [Metabase](https://www.metabase.com/). This `data shack` (™) serves our account managers and service teams. Before they had to ask clients which features they were paying for ?! Now they can have meaningful conversations about how clients are using our platform and suggest avenues for improvement. Aside from empowering 1/3 of our company, this demonstrated the business case for investing in a "real data warehouse 💸💸".
 
 #### OnTheHouse rewrite: 2014 → 2016:
 
