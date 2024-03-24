@@ -2,26 +2,28 @@
 
 Welcome! This is the long format of Kyle Zeeuwen's resume. It contains A LOT of info! There is also a [short version](./short_format.md) if you prefer.
 
-Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="20px" /> (↖ over there ↖)
+Did you know: github markdown viewer include a table of contents / header summary <img src="../assets/table_of_content_icon.png" width="20px" /> (↗ over there ↗)
 
 * Future Work: A web version
 
 # Technologies
 
 ## Languages
-* javascript - Advanced - 10+ year
-* nodejs - Advanced - 10+ year
-* perl - Advanced - Never again - 6 year
-* python - Novice/Intermediate - 5 year
+* python - Intermediate - 5 year
+* nodejs/javascript - Advanced - 10+ year
 * HTML5/CSS - Intermediate - 10+ year 
-* Java - Beginner - 1 year
-* C/C++ - Beginner - 3 year
+* perl - Advanced, but never again - 6 year
 
 ## Database
 * MySQL - Advanced - 14+ year
 * hadoop + Hbase - 2 year
 * elasticsearch - Beginner - 3 year
-* redshift - Beginner - 3 months
+* postgres/redshift - Beginner - 3 year
+* Neo4j - Beginner - 1 year
+
+## Data Engineering / Data Science Frameworks 
+* DBT - Intermediate - 3 year
+* Pandas / Numpy / ScikitLearn - Beginner - 1 year
 
 ## Javascript / Nodejs Frameworks
 * AngularJS (1.x) - Advanced - 10+ year
@@ -31,10 +33,6 @@ Did you know: github markdown viewer include a table of contents / header summar
 * Protractor - Intermediate - 4 year
 * Testing with chai/sinon/mocha or jasmine - 4 year
 * Puppeteer - Beginner - 2 year
-
-## Data Engineering / Data Science Frameworks 
-* DBT - Beginner - 4 months
-* Pandas / Numpy / ScikitLearn - Beginner - 1 year
 
 ## Build/Devops
 * git - advanced - 8 year
@@ -49,9 +47,9 @@ Did you know: github markdown viewer include a table of contents / header summar
 
 ## Full Time Employment
 
-### Console - 2014 → Present
-  * Role: Front End Developer → Tech Lead → Practice Lead → Squad Lead → Squad Lead Coordinator → Data Guy
-  * Who: [Console](https://www.console.com.au/) formerly [OnTheHouse](https://www.onthehouse.com.au/)
+## Reapit - 2014 → Present
+  * Role: Front End Developer → Tech Lead → Practice Lead → Squad Lead → Squad Lead Coordinator → Data Engineer
+  * Who: [Reapit ANZ](https://www.reapit.au/discover/) formerly [Console](https://www.console.com.au/) formerly [OnTheHouse](https://www.onthehouse.com.au/)
   * When: May 2014 - Present
   * Where: Sydney, Australia + Brisbane, Australia
 
@@ -61,7 +59,7 @@ As the two product builds were effectively two completely different experiences,
 
 #### Console Cloud: Inception → Stable Product → Acquisition : 2016 → present
 
-In March 2016 Console began a program of work to replace an on premises property management software package called Gateway. The new solution was SaaS based consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
+In March 2016 Console began a program of work to replace an on premises property management software package called Gateway. The new solution is SaaS based consisting of a website and mobile apps for property managers, landlords, and tenants. We went live with 1 beta client in February 2017 and by early 2022 have onboarded over 95% of the legacy clients onto the new software. The success and stability of the new platform led to [accquisition of Console by AKKR](https://www.reapit.com/press-releases/reapit-expands-portfolio-with-acquisition-of-leading-australian-proptech-company-console/).
 
 ##### Technology Stack
 * Web: Combination of "micro front ends" written in React with older code written in AngularJS.
