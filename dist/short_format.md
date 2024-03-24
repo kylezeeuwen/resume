@@ -40,7 +40,7 @@ Did you know: github markdown viewer include a table of contents / header summar
   * When: May 2014 - Present
   * Where: Sydney, Australia + Brisbane, Australia
 
-It's been an 10 year journey spanning two cities, 6 CEOs, 6 roles, and two complete rewrites of legacy products: the [www.onthehouse.com.au](www.onthehouse.com.au) site and the [Console Cloud property management platform](https://www.console.com.au/products/cloud/). From late 2020, I stepped away from a technical leadership role and focused on Data Engineering.
+It's been an 10 year journey spanning two cities, 6 CEOs, 6 roles, and two complete rewrites of legacy products: the [www.onthehouse.com.au](www.onthehouse.com.au) site and the [Console Cloud property management platform](https://www.console.com.au/products/cloud/). From late 2020, I stepped away from a technical leadership role and focused on Data Engineering. Below I've split the experience into Data Team, Console Cloud rewrite, and OnTheHouse rewrite.
 
 ### Data Team : 2020 → present
 
