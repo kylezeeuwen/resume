@@ -47,7 +47,7 @@ It's been an 10 year journey spanning two cities, 6 CEOs, 6 roles, and two compl
 By late 2020 we were big enough to justify focus on data curation and revenue operations. I began focusing in this space, eventually carving out a dedicated role. Major achievements:
 
 * **CRM Consolidation from Xero into Salesforce**: Console, Agentbox, and Agentpoint were all acquired by Reapit. I was heavily involved in a one year effort to consolidate CRMs and billing from 2x Xero and 2x Salesforce into a single Salesforce Org to rule them all.
-* **Single View Of Customer**: I have maintained a single view of client in our warehouse during multiple acquisitions and business system consolidation projects. Over 100 internal users base wrokflow on top of the single client view provided by the warehouse
+* **Single View Of Customer**: I have maintained a single view of client in our warehouse during multiple acquisitions and business system consolidation projects. Over 100 internal users base workflow on top of the single client view provided by the warehouse
 * **Deep Dive Usage Data**: I built rich usage dashboards that summarise client activity in the Console Cloud product. This tool is used as an engagement tool to facilitate better client relationships.
 * **Eliminate Revenue Leakage**: Integrate our production SaaS product with Salesforce billing to ensure we charge for all services and products that are delivered. Over 2 years I have recovered +$70k/month worth of revenue, and drastically improved our process and data quality in this space.
 * **BAU Business Intelligence**: Daily updates to our data pipeline to satisfy Account Management, Finance, product engineering, and business systems.
